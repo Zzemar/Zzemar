@@ -5,6 +5,7 @@ I'm a 27yo software developer from Croatia who loves working with **C# & JavaScr
 ## 🚀 Currently Working On
 - **Mod Downloader App for ETS2** (WPF + Node.js API)
 - **Automation Tools & Custom Discord Bots**
+- **Jana App that lets you easily customize and manage commands for your DIY button box and indicator stalk or whatever you need**
 
 ## 💻 Languages & Tools
 - **Languages:** C#, JavaScript, SQL
@@ -18,6 +19,6 @@ I'm a 27yo software developer from Croatia who loves working with **C# & JavaScr
 ### General / Contact
 - Discord: `zemar97` or [click here](https://discord.com/users/984033217357156362)
 
-### Mod Downloader App
+- ### Mod Downloader App
 - Website: [Official Moler Website](https://update.moler.cloud)  
 - Support / Feedback: [Join Discord](https://discord.gg/moler) or [Join Discord](https://discord.com/invite/hRWqkGufhn) *(Different invite link)*
