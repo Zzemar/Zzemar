@@ -12,8 +12,8 @@ I'm a 27yo software developer from Croatia who loves working with **C# & JavaScr
 - **Frameworks / Libraries:** .NET, WPF, Node.js  
 - **Tools:** GitHub, VS, VS Code, Postman, Wireshark  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zzemar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzemar&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zzemar&show_icons=true&theme=tokyonight&cache_bust=1692870000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzemar&layout=compact&theme=tokyonight&cache_bust=1692870000)
 
 ## 📫 How to reach me
 - 💬 Discord: `zemar97` or [click here](https://discord.com/users/984033217357156362)  
